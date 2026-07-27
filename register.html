@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechFest 2026 | Register</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <div style="display: flex; align-items: center; justify-content: center; width: 80px; height: 80px; background-color: #09090b; border: 3px solid #facc15; border-radius: 16px; font-family: monospace; font-size: 2.2rem; font-weight: 900; color: #facc15; box-shadow: 0 0 15px rgba(250, 204, 21, 0.3); margin-bottom: 10px;">
+                &lt;/&gt;
+            </div>
+            <h1>TECH<span style="color: #facc15;">FEST</span> 2026</h1>
+        </div>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="register.html" class="active">Register</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="contact.html">Contact</a> 
+    </nav>
+
+    <main>
+        <section id="registration-section">
+            <h2>Online Registration Form</h2>
+            
+            <form action="#" method="POST">
+                
+                <div class="form-group">
+                    <label for="username">Full Name:</label>
+                    <input type="text" id="username" name="username" placeholder="Enter your full name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="useremail">Email Address:</label>
+                    <input type="email" id="useremail" name="useremail" placeholder="@gmail.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="usertel">Mobile Number:</label>
+                    <input type="tel" id="usertel" name="usertel" placeholder="10-digit mobile number" pattern="[0-9]{10}" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="userdob">Date of Birth:</label>
+                    <input type="date" id="userdob" name="userdob" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Gender:</label>
+                    <div class="radio-checkbox-group">
+                        <label><input type="radio" name="gender" value="male" required> Male</label>
+                        <label><input type="radio" name="gender" value="female"> Female</label>
+                        <label><input type="radio" name="gender" value="other"> Others</label>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="userdept">Department:</label>
+                    <select id="userdept" name="userdept" required>
+                        <option value="">-- Select your Department --</option>
+                        <option value="cse">Computer Science</option>
+                        <option value="ece">Electronics</option>
+                        <option value="mech">Mechanical</option>
+                        <option value="civil">Civil</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Select Events to Join:</label>
+                    <div class="radio-checkbox-group">
+                        <label><input type="checkbox" name="chosen_events" value="hackathon"> Hackathon</label>
+                        <label><input type="checkbox" name="chosen_events" value="robotics"> Robotics Challenge</label>
+                        <label><input type="checkbox" name="chosen_events" value="design"> Design Sprint</label>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="usermessage">Any Special Requirements / Comments:</label>
+                    <textarea id="usermessage" name="usermessage" rows="4" placeholder="Type your Comments:"></textarea>
+                </div>
+
+                <button type="submit">Submit Registration</button>
+
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 TechFest — Built with creativity</p>
+    </footer>
+
+</body>
+</html>
