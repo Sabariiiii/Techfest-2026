@@ -8,12 +8,17 @@ A sleek, dark-themed, and fully responsive multi-page web application built for 
 
 ## ✨ Key Features
 
-* **📱 Fully Responsive Design:** Custom `@media` queries ensure a seamless layout across mobile, tablet, and desktop views.
-* **🎨 Modern Tech Theme:** Dark aesthetic paired with glowing accent colors.
-* **⚡ Modern CSS Layouts:** Utilizes **CSS Grid** for event cards/galleries and **Flexbox** for site headers, forms, and navigation bars.
-* **📋 Multi-Input Registration Form:** Features interactive form elements including date pickers, select dropdowns, custom checkboxes, and radio buttons.
-* **🎬 Multimedia Stream:** Integrated HTML5 `<video>` trailer playback and custom `<audio>` theme music streaming.
-* **📌 Sticky Navigation:** Top menu remains accessible while scrolling with active page highlighting.
+Fits any screen: Custom responsive design so the site looks great on phones, tablets, and computers alike.
+
+Sleek dark theme: Built with a dark color scheme accented by glowing highlights for a modern tech feel.
+
+Flexible layouts: CSS Grid keeps event cards and media galleries neatly organized, while Flexbox handles smooth header and menu navigation.
+
+Interactive forms: Includes a complete registration form with date pickers, dropdowns, checkboxes, and radio buttons.
+
+Built-in media: Packed with HTML5 video trailers and embedded audio tracks that play right in the browser.
+
+Sticky menu: The navigation bar stays pinned to the top as you scroll, showing you exactly which page you're currently on.
 
 ---
 
