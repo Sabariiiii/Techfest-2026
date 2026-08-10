@@ -27,14 +27,14 @@ A sleek, dark-themed, and fully responsive multi-page web application built for 
 ```text
 techfest-2026/
 ├── css/
-│   └── style.css            # Custom CSS styling (Grid, Flexbox, Theme)
-├── images/                  # Gallery images & event logos
+│   └── style.css                # Custom CSS styling (Grid, Flexbox, Theme)
+├── images/                      # Gallery images & event logos
 ├── media/
-│   ├── tech video.mp4.mp4   # Event trailer video
+│   ├── tech video.mp4.mp4       # Event trailer video
 │   └── techfest-theme.mp3.mp3   # Event audio track
-├── index.html               # Home page & overview
-├── events.html              # Full event schedules & tables
-├── register.html            # Online registration form
-├── gallery.html             # Photo grid & multimedia stream
-├── contact.html             # Support desk & contact info
-└── README.md                # Project documentation
+├── index.html                   # Home page & overview
+├── events.html                  # Full event schedules & tables
+├── register.html                # Online registration form
+├── gallery.html                 # Photo grid & multimedia stream
+├── contact.html                 # Support desk & contact info
+└── README.md                    # Project documentation
