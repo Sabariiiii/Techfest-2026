@@ -30,8 +30,8 @@ techfest-2026/
 │   └── style.css            # Custom CSS styling (Grid, Flexbox, Theme)
 ├── images/                  # Gallery images & event logos
 ├── media/
-│   ├── techfest-promo.mp4   # Event trailer video
-│   └── techfest-theme.mp3   # Event audio track
+│   ├── tech video.mp4.mp4   # Event trailer video
+│   └── techfest-theme.mp3.mp3   # Event audio track
 ├── index.html               # Home page & overview
 ├── events.html              # Full event schedules & tables
 ├── register.html            # Online registration form
