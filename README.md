@@ -9,7 +9,7 @@ A sleek, dark-themed, and fully responsive multi-page web application built for 
 ## ✨ Key Features
 
 * **📱 Fully Responsive Design:** Custom `@media` queries ensure a seamless layout across mobile, tablet, and desktop views.
-* **🎨 Modern Tech Theme:** Dark aesthetic (#09090b) paired with glowing accent colors (#facc15).
+* **🎨 Modern Tech Theme:** Dark aesthetic paired with glowing accent colors.
 * **⚡ Modern CSS Layouts:** Utilizes **CSS Grid** for event cards/galleries and **Flexbox** for site headers, forms, and navigation bars.
 * **📋 Multi-Input Registration Form:** Features interactive form elements including date pickers, select dropdowns, custom checkboxes, and radio buttons.
 * **🎬 Multimedia Stream:** Integrated HTML5 `<video>` trailer playback and custom `<audio>` theme music streaming.
